@@ -1,5 +1,6 @@
-### Hi there 👋
+### 👋 Hey ❤️
 
+![](https://komarev.com/ghpvc/?username=shabeersha&label=PROFILE+VIEWS)
 <!--
 **anagh534/anagh534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
