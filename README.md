@@ -1,9 +1,14 @@
 ### 👋 Hey ❤️
 
 ![](https://komarev.com/ghpvc/?username=shabeersha&label=PROFILE+VIEWS)
+
+
+![Anagh's github status](https://github-readme-stats.vercel.app/api?username=anagh534&count_private=true&show_icons=true&theme=synthwave)<a href="https://github.com/anagh534"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagh534&layout=compact&theme=tokyonight"/></a>
 <!--
 **anagh534/anagh534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left">
+<a href="https://www.facebook.com/anagh.anagh.7927"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
