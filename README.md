@@ -1,7 +1,5 @@
 ### 👋 Hey ❤️
 
-![](https://komarev.com/ghpvc/?username=shabeersha&label=PROFILE+VIEWS)
-
 
 ![Anagh's github status](https://github-readme-stats.vercel.app/api?username=anagh534&count_private=true&show_icons=true&theme=synthwave)<a href="https://github.com/anagh534"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagh534&layout=compact&theme=tokyonight"/></a>
 <!--
